@@ -1,1 +1,1 @@
-# Project1Spring-Training-Travel-Planner
+# Project 1Spring-Training-Travel-Planner
